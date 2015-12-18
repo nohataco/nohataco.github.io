@@ -1,0 +1,10 @@
+*~
+*.bk
+*.bak
+*#
+.#*
+.DS_Store
+*.log
+*.swp
+*.org
+!*.gitkeep
